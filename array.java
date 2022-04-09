@@ -47,6 +47,9 @@ public class ArrRef {
 	public static void changeStr(String str) {
 		// str = str
 		str = “orange”;
+		System.out.pritnln(str);
+		
+		}
 	}
 	
 }
